@@ -1,0 +1,32 @@
+{
+  "employees": [
+    {
+      "id": 2,
+      "employeeName": "John",
+      "address": "Hydrebad",
+      "phone": 9677345678,
+      "country": "India"
+    },
+    {
+      "id": 1,
+      "employeeName": "Syed",
+      "address": "Telangana",
+      "phone": 9677345678,
+      "country": "India"
+    },
+    {
+      "id": 3,
+      "employeeName": "Tony",
+      "address": "Banglore",
+      "phone": "6789098769",
+      "country": "India"
+    },
+    {
+      "id": 4,
+      "employeeName": "Akash",
+      "address": "Banglore",
+      "phone": "9087656889",
+      "country": "India"
+    }
+  ]
+}

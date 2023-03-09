@@ -1,0 +1,15 @@
+1.create angular project using command ng new ProjectName 
+2.serve the project using ng serve -o
+3.Create a employeedb.json and fill the data 
+4.then run the command to install json -> npm install -g json-server 
+5.If you already have the json, then run the watch command -> json-server --watch employeedb.json 
+6.Next create the required components using command -> ng g c ComponentName 
+7.then create the class and service.
+8.then in app.module.ts add the HttpClientModule.
+9.write down all the CRUD services.
+10.then in component inject the services and subscribe them to use it.
+11.create forms for add, update. I have used ngForms to get the data from user.
+12. I have created three components, performed CRUD operatins in home component
+13.nav-bar component is to provide navbar to my webpage where usere can navigate.
+14.login component I have used to demonstrate routing mechanism.
+15.I have implemented custom directive(name:"customstyles") to perform heading style in app.component.html
